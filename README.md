@@ -1,6 +1,6 @@
 # Hello Deep Learning
 
-Introductions to deep learning are too complicated because they spend too much time trying to thrill you with details and real-world applications.
+Most introductions to deep learning are too complicated because they spend too much time trying to thrill you with details and real-world applications.
 
 ![robot waving](pic.png)
 
